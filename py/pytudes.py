@@ -205,7 +205,6 @@ def format_notebook(title, year, url, comment=''):
     nb = f'[N](https://nbviewer.jupyter.org/github/norvig/pytudes{urlb})'
     sm = f'[S](https://studiolab.sagemaker.aws/import/github/norvig/pytudes{urlb})'
     ti = f'<a href="{gh[4:-1]}" title="{comment}">{title}</a>'
-    if year == current_year: year = f'<u>{year}</u>'
     return f'| {co} {dn} {my} {nb} {sm} | {year} | {ti} |'
 
 def format_pythons() -> str:
