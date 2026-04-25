@@ -63,7 +63,7 @@ notebooks = {
 ("Stubborn number endings", 2024, 'Stubborn.ipynb', 'Any number ending in 5 has a square that also ends in 5. What other endings are like this?'), 
 ('Star Battle (Sudoku-like Puzzle)', 2021, 'StarBattle.ipynb', 'Fill-in-the-grid puzzle similar to Sudoku'),
 ('Sudoku', 2006, 'Sudoku.ipynb', 'Classic fill-in-the-grid puzzle'),
-('Sudoku: 100,000 puzzles/second in Java', 2021, 'SudokuJava.ipynb', 'A version of the Sudoku solver using parallel threads and other optimizations'),
+('Sudoku: 200,000 puzzles/second in Java', 2021, 'SudokuJava.ipynb', 'A version of the Sudoku solver using parallel threads and other optimizations'),
 ('Square Sum Puzzle', 2020, 'SquareSum.ipynb', 'Place the numbers from 1 to n in a chain (or a circle) such that adjacent pairs sum to a perfect square'),
 ("When is Cheryl's Birthday?", 2020, 'Cheryl.ipynb', "Solving the *Cheryl's Birthday* logic puzzle"),
 ('When Cheryl Met Eve: A Birthday Story', 2015, 'Cheryl-and-Eve.ipynb', "Inventing new puzzles in the Style of Cheryl's Birthday"),
